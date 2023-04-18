@@ -1,0 +1,5 @@
+senematik HTML adalah penggunaan markup HTML untuk memperkuat sinematik, atau makna,dari informasi di halaman web dan applikasi web daripada hanya untuk mendefinisikan presentasi atau tampilan nya.
+dokumen HTML kita akan mudah dibaca,baik itu oleh manusia maupun mesin.
+Elemen <header>       Elemen <article>
+Elemen <main>         Elemen <aside>
+Elemen <nav>          Elemen <footer>
